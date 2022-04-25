@@ -7,7 +7,7 @@ Bookstore written in GO.
 
 # Usage (for Ubuntu)
 
-Navigate to cmd folder.
-From Terminal: "go run main.go"
-Hit endpoints using Postman.
+1. Navigate to cmd folder.
+2. From Terminal: "go run main.go"
+3. Hit endpoints using Postman.
 
